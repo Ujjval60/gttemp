@@ -1,0 +1,76 @@
+#bg_img {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.6) 0%,
+      rgba(255, 255, 255, 0.9) 100%
+    ),
+    url("bg.jpg");
+  background-size: cover;
+}
+#font {
+  font-family: monaco, Consolas, Lucida Console, monospace;
+  color: #db7028;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#facilities h1 {
+  font-weight: 900;
+  font-size: 34px;
+  padding-bottom: 5px;
+}
+
+#facilities {
+  background-color: #dbe5e6;
+  padding: 30px 0px;
+}
+
+.title {
+  text-align: center;
+  padding: 25px 0px;
+}
+.title p {
+  font-size: 18px;
+}
+
+.card-body {
+  box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  margin: 20px 10px;
+}
+
+.card-body a {
+  color: #0c7f90;
+  text-decoration: none;
+  font-size: 20px;
+  margin-top: auto;
+  font-weight: 600;
+}
+
+.card-body a:hover {
+  color: #63a6b0;
+  text-decoration: none;
+}
+#link1 {
+  color: white;
+}
+#link1:hover {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+#size {
+  font-size: 22px;
+}
+#abc {
+  margin: 1%;
+}
+
+#col {
+  color: darkslategray;
+}
+
+#col2 {
+  color: darkslategray;
+}
